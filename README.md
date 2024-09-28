@@ -2,7 +2,7 @@
 your personal research assistant chatbot
 
 # Installation
-* git clone https://github.com/yourusername/pdf-chatbot.git
+* git clone https://github.com/ToffertheCreator/SAGE_prototype.git
 * cd sage-chatbot
 * python -m venv chat_venv
 * source chat_venv/bin/activate
@@ -25,4 +25,4 @@ This is a prototype and may still have some bugs or incomplete features. It's an
 * Audio handler: https://huggingface.co/collections/openai/whisper-release-6501bba2cf999715fd953013
 * Image handler: https://github.com/abetlen/llama-cpp-python?tab=readme-ov-file [NOTE: >go to the "Multi-modal Models" section and choose the model you want. >download the model as well as the mmproj file, and put them both inside the "llava" directory in the models folder
 
-you may choose any quantized model here: https://huggingface.co/TheBloke
+you may uae any quantized model here: https://huggingface.co/TheBloke
