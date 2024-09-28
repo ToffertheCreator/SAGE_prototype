@@ -1,0 +1,12 @@
+model_path:
+  large: 'models\capybarahermes-2.5-mistral-7b.Q5_K_M.gguf' # You can change the model of your own choice, just download it first
+
+model_type: 'mistral'
+embeddings_path: 'dunzhang/stella_en_1.5B_v5'
+model_config: {
+    'max_new_tokens': 1000,  # Increase if needed
+    'temperature': 0.2,
+    'context_length': 2048,
+    'gpu_layers': 0
+}
+chat_history_path: 'chat_sessions'
