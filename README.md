@@ -1,6 +1,12 @@
 # SAGE_prototype
 your personal research assistant chatbot
 
+# KEY FEATURES
+* general chatbot & pdf chatbot
+* can handle image and audio inputs
+* research paper web scraping
+* data analysis and machine learning support
+
 # Installation
 * git clone https://github.com/ToffertheCreator/SAGE_prototype.git
 * cd sage-chatbot
