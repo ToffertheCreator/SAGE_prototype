@@ -2,7 +2,7 @@
 your personal research assistant chatbot
 
 # Video Demo
-
+https://mega.nz/file/5Z5yVIjS#_o-4VBbBcxbp3oS2mnp2T2xJKIKIkUTITAAGZgtfGws
 
 # KEY FEATURES
 * general chatbot & pdf chatbot
