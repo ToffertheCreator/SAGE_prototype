@@ -1,5 +1,8 @@
-# SAGE_prototype
+# SAGE (Scholarly Assistant Generative Engine) [prototype ver]
 your personal research assistant chatbot
+
+# Video Demo
+
 
 # KEY FEATURES
 * general chatbot & pdf chatbot
